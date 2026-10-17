@@ -68,3 +68,8 @@ AWS Lambda · Amazon API Gateway · Amazon DynamoDB · Python · REST APIs · AW
 ## Learning Outcomes
 
 This project extended my hands-on experience with serverless AWS development into AI-powered API integration. It provided practical experience with Python dependencies, API endpoint design, database-backed request history, credential handling, and troubleshooting integration issues.
+
+## Project Documentation
+
+View the Study Buddy API Project Summary (PDF):
+https://github.com/Nikhilarb/serverless-ai-study-buddy-api/blob/main/Serverless%20AI%20Study%20Buddy%20API_Nikhila.pdf
